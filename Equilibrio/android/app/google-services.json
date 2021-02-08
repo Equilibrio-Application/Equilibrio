@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76760671624",
+    "project_id": "equilibrio-c5458",
+    "storage_bucket": "equilibrio-c5458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76760671624:android:f674816472a7452825463d",
+        "android_client_info": {
+          "package_name": "com.example.Equilibrio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76760671624-da40e5iphv2q05vd0bmjqke1rlkdd9pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbRvhpt736Mo4dKWNCn3weGQ18P1AiZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76760671624-da40e5iphv2q05vd0bmjqke1rlkdd9pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
